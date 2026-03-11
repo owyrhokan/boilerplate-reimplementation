@@ -1,22 +1,25 @@
-# boilerplate-reimplementation
+# Boilerplate Reimplementation
 
-Tiny boilerplate-reimplementation tool.
+This repository provides a tiny boilerplate tool for quick project setup.
 
 ## Features
 - Quick setup for new projects
-- Easy customization
+- Easy to use and customize
 
-## Tech Stack
-- JavaScript
+## Technology Stack
+- N/A
 
 ## Usage
-1. Clone the repo
-2. Install dependencies with `npm install`
-3. Run the tool using `node index.js`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/boilerplate-reimplementation.git
+   ```
+2. Navigate into the directory:
+   ```bash
+   cd boilerplate-reimplementation
+   ```
+3. Follow the instructions in the documentation to set up your project.
 
 ## Future Plans
-- Add more templates
-- Improve documentation
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Add more customizable templates for different project types.
+- Improve documentation and examples.
